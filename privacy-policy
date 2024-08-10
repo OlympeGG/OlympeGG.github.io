@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Olympe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #444;
+            text-align: center;
+        }
+        h2 {
+            color: #444;
+            border-bottom: 2px solid #444;
+            padding-bottom: 5px;
+        }
+        p {
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy for Olympe</h1>
+
+        <p>This Privacy Policy governs the collection, use, and sharing of personal information by <strong>Olympe</strong>, a Discord bot developed by <strong>Olympe Studio</strong>. By using <strong>Olympe</strong>, you agree to the terms of this Privacy Policy.</p>
+
+        <h2>Information We Collect</h2>
+        <p>We collect information that you provide to us through your use of the bot, such as your Discord user ID and username, server and channel information, and message content. We may also collect usage data, such as the frequency and duration of your use of the bot.</p>
+
+        <h2>How We Use Your Information</h2>
+        <p>We use your information to operate and improve <strong>Olympe</strong>, including to provide support and respond to your requests. We may also use your information to develop new features or services, to conduct research and analytics, and to comply with legal obligations.</p>
+
+        <h2>Sharing Your Information</h2>
+        <p>We do not sell or share your personal information with third parties. However, we may disclose your information in response to legal process or a request from a law enforcement agency or regulatory authority.</p>
+
+        <h2>Data Retention</h2>
+        <p>We retain your information for as long as necessary to provide <strong>Olympe</strong>’s services or as required by law. We will delete your information upon your request or when it is no longer needed.</p>
+
+        <h2>Data Security</h2>
+        <p>We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security measure is perfect, and we cannot guarantee the security of your information.</p>
+
+        <h2>Changes to this Policy</h2>
+        <p>We may update this Privacy Policy from time to time, and we will post the updated policy on our website. Your continued use of <strong>Olympe</strong> after we make changes to this policy indicates your acceptance of the revised policy.</p>
+
+        <h2>Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy, please contact us at <strong>contact@olympe.gg</strong>.</p>
+
+        <h2>Effective Date</h2>
+        <p>This Privacy Policy is effective as of <strong>01/01/2024</strong>.</p>
+    </div>
+</body>
+</html>
